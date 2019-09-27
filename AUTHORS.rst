@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Prismatic Digital <contact@prismaticdigital.com>
+* John Carter (@therefromhere)
 
 Contributors
 ------------

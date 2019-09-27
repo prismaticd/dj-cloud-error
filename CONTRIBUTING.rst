@@ -15,7 +15,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs at https://github.com/prismaticd/dj_cloud_error/issues.
+Report bugs at https://github.com/prismaticd/dj-cloud-error/issues.
 
 If you are reporting a bug, please include:
 
@@ -45,7 +45,7 @@ articles, and such.
 Submit Feedback
 ~~~~~~~~~~~~~~~
 
-The best way to send feedback is to file an issue at https://github.com/prismaticd/dj_cloud_error/issues.
+The best way to send feedback is to file an issue at https://github.com/prismaticd/dj-cloud-error/issues.
 
 If you are proposing a feature:
 
@@ -59,10 +59,10 @@ Get Started!
 
 Ready to contribute? Here's how to set up `dj_cloud_error` for local development.
 
-1. Fork the `dj_cloud_error` repo on GitHub.
+1. Fork the `dj-cloud-error` repo on GitHub.
 2. Clone your fork locally::
 
-    $ git clone git@github.com:your_name_here/dj_cloud_error.git
+    $ git clone git@github.com:your_name_here/dj-cloud-error.git
 
 3. Install your local copy into a virtualenv. Assuming you have virtualenvwrapper installed, this is how you set up your fork for local development::
 
@@ -102,8 +102,8 @@ Before you submit a pull request, check that it meets these guidelines:
 2. If the pull request adds functionality, the docs should be updated. Put
    your new functionality into a function with a docstring, and add the
    feature to the list in README.rst.
-3. The pull request should work for Python 2.7, 3.5, 3.6 and 3.7, and for PyPy. Check
-   https://travis-ci.org/prismaticd/dj_cloud_error/pull_requests
+3. The pull request should work for Python 3.6 and 3.7, and for PyPy. Check
+   https://travis-ci.org/prismaticd/dj-cloud-error/pull_requests
    and make sure that the tests pass for all supported Python versions.
 
 Tips
