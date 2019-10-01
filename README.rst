@@ -9,9 +9,6 @@ dj-cloud-error: Django Google Cloud Error Reporting
 .. image:: https://img.shields.io/travis/prismaticd/dj-cloud-error.svg
         :target: https://travis-ci.org/prismaticd/dj-cloud-error
 
-.. image:: https://readthedocs.org/projects/dj-cloud-error/badge/?version=latest
-        :target: https://dj-cloud-error.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
 
 
 
@@ -20,7 +17,6 @@ Report exceptions from any Django site to Google Cloud Stackdriver Error Reporti
 
 
 * Free software: MIT license
-* Documentation: https://dj-cloud-error.readthedocs.io.
 
 
 Features
