@@ -48,6 +48,15 @@ Quickstart
 
 Note: ``handler500`` is only used if ``DEBUG = False`` in django settings.
 
+3b) Instead of using ``handler500`` you can use a middleware to catch and send all the
+exceptions to Google Cloud error reporting API. Just add the middleware in your settings::
+
+    # in myproject/settings.py
+    MIDDLEWARE = [
+        ...
+        "dj_cloud_error.middleware.GoogleCloudMiddleware",
+    ]
+
 Settings
 ========
 
